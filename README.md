@@ -3,4 +3,4 @@
 ## Wassup wassup wassup
 
 ## Tesing PDF Upload
-[Test PDF](./Test_PDF.md)  
+[Test PDF](/Test_PDF.md)  
